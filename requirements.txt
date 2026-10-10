@@ -1,0 +1,7 @@
+fastapi==0.143.0
+uvicorn==0.54.0
+pydantic==2.14.0
+
+# test-only, but kept in one file for a take-home-assignment-sized project
+pytest==9.1.1
+httpx==0.28.1
